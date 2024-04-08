@@ -1,0 +1,33 @@
+[
+  {
+    "question": "What is the main advantage of using Node.js?",
+    "options": [
+      "Asynchronous and event-driven",
+      "Synchronous and blocking",
+      "Limited scalability",
+      "Complex syntax"
+    ],
+    "correctAnswer": "Asynchronous and event-driven"
+  },
+  {
+    "question": "Which module is commonly used for handling file operations in Node.js?",
+    "options": [
+      "fs",
+      "http",
+      "path",
+      "util"
+    ],
+    "correctAnswer": "fs"
+  },
+  {
+    "question": "What is the Node.js event loop?",
+    "options": [
+      "A feature for handling HTTP requests",
+      "A JavaScript function",
+      "A mechanism for handling asynchronous operations",
+      "A module for creating event listeners"
+    ],
+    "correctAnswer": "A mechanism for handling asynchronous operations"
+  },
+  // Add more questions here...
+]
