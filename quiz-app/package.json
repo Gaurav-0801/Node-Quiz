@@ -1,0 +1,21 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js quiz application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+    // Add other dependencies as needed
+  },
+  "keywords": [
+    "node",
+    "express",
+    "quiz",
+    // Add relevant keywords
+  ],
+  "author": "Gaurav",
+  "license":,
+}
